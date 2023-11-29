@@ -8,6 +8,10 @@ public class Class1Test
 		System.out.println("Hello...!!!");
 
 		System.out.println("Hello...!!!");
+		
+		System.out.println("Hello...All !!!");
+		
+		System.out.println("Hello...All !!!");
 
 	}
 	
