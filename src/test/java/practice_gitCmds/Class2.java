@@ -8,6 +8,13 @@ public class Class2 {
 		System.out.println("commit c1");
 		System.out.println("commit c2");
 		System.out.println("commit c3");
+		
+		
+		System.out.println("commit c4");
+		System.out.println("commit c5");
+		System.out.println("commit c6");
+
+		System.out.println("commit c7");
 
 	}
 
